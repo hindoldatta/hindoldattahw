@@ -1,0 +1,10 @@
+h1 {color: red;
+background-color: DarkCyan;}
+h2 {color: blue;}
+body {background-color: lightgray}
+p {font: 15px arial, sans-serif;}
+body {text-align: center;}
+#container { margin: 0 auto;
+             width: xxxpx;
+             text-align: left}
+ ul { color: green;}
